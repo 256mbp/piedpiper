@@ -4,6 +4,9 @@ body {
   font-family: Roboto, sans-serif; 
   background-color: #EEEEEE;
 }
+.up{
+    padding-top: 84px;
+}
 /*-------------------------------------------------
 /* Header */
 .top__main {
